@@ -1,0 +1,14 @@
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\bin\Debug\CalculoIMC.exe.config
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\bin\Debug\CalculoIMC.exe
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\bin\Debug\CalculoIMC.pdb
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.csproj.AssemblyReference.cache
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.Properties.Resources.resources
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.csproj.GenerateResource.cache
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.csproj.CoreCompileInputs.cache
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.exe
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.pdb
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.frmImc.resources
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.frmMenuPrincipal.resources
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.frmCarregamento.resources
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.frmCombustivel.resources
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\CalculoIMC\obj\Debug\CalculoIMC.frmFolhaPagamento.resources

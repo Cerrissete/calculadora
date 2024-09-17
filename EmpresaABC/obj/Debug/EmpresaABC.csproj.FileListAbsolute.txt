@@ -1,0 +1,10 @@
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\EmpresaABC\bin\Debug\EmpresaABC.exe.config
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\EmpresaABC\bin\Debug\EmpresaABC.exe
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\EmpresaABC\bin\Debug\EmpresaABC.pdb
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\EmpresaABC\obj\Debug\EmpresaABC.csproj.AssemblyReference.cache
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\EmpresaABC\obj\Debug\EmpresaABC.Calculadora.resources
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\EmpresaABC\obj\Debug\EmpresaABC.Properties.Resources.resources
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\EmpresaABC\obj\Debug\EmpresaABC.csproj.GenerateResource.cache
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\EmpresaABC\obj\Debug\EmpresaABC.csproj.CoreCompileInputs.cache
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\EmpresaABC\obj\Debug\EmpresaABC.exe
+C:\Users\ramon.vssouza\Documents\Visual Studio 2019\frmCalculadora\EmpresaABC\obj\Debug\EmpresaABC.pdb
